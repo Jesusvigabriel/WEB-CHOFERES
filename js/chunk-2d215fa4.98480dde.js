@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d215fa4"],{c100:function(e,a,c){"use strict";c.r(a);var n=function(){var e=this,a=e.$createElement,c=e._self._c||a;return c("h1",[e._v("Logout")])},t=[],o=(c("5319"),c("ac1f"),c("4360")),u=c("a18c"),r={name:"Logout",created:function(){o["a"].dispatch("choferes/desloggear"),u["a"].replace("/")}},l=r,s=c("2877"),f=Object(s["a"])(l,n,t,!1,null,null,null);a["default"]=f.exports}}]);
+//# sourceMappingURL=chunk-2d215fa4.98480dde.js.map

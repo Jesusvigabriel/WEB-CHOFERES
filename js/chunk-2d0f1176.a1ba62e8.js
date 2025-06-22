@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f1176"],{"9ec7":function(e,n,r){"use strict";r.r(n);var a=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("v-container",[r("h1",[e._v("Configurar chofer")])])},c=[],o=(r("f973"),r("4360")),t={name:"Configurar",created:function(){o["a"].dispatch("choferes/actualizar",{loggeado:!0,numero:"1234",nombre:"Juan Perez"})}},u=t,i=r("2877"),f=Object(i["a"])(u,a,c,!1,null,null,null);n["default"]=f.exports}}]);
+//# sourceMappingURL=chunk-2d0f1176.a1ba62e8.js.map
